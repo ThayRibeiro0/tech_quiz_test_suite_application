@@ -1,0 +1,43 @@
+[
+    {
+      "question": "What does HTML stand for?",
+      "answers": ["Hyper Text Markup Language", "Hot Mail", "How To Make Lasagna", "Hyperlinks and Text Markup Language"],
+      "correctAnswer": "Hyper Text Markup Language"
+    },
+    {
+      "question": "What is the purpose of CSS?",
+      "answers": ["Structure the web", "Style the web", "Store data", "Send emails"],
+      "correctAnswer": "Style the web"
+    },
+    {
+      "question": "Which language is used for web apps?",
+      "answers": ["PHP", "Python", "JavaScript", "All of the above"],
+      "correctAnswer": "All of the above"
+    },
+    {
+      "question": "What is the capital of France?",
+      "options": ["Paris", "London", "Berlin", "Madrid"],
+      "answer": "Paris"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "answer": "Mars"
+    },
+    {
+      "question": "What language is primarily used for web development?",
+      "options": ["Python", "JavaScript", "C++", "Java"],
+      "answer": "JavaScript"
+    },
+    {
+      "question": "Who developed the theory of relativity?",
+      "options": ["Isaac Newton", "Albert Einstein", "Galileo", "Nikola Tesla"],
+      "answer": "Albert Einstein"
+    },
+    {
+      "question": "Which one is a JavaScript framework?",
+      "options": ["Laravel", "Django", "React", "Rails"],
+      "answer": "React"
+    }
+  ]
+  

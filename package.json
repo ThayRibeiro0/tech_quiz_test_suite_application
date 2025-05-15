@@ -23,6 +23,8 @@
     "@cypress/react": "^9.0.1",
     "@cypress/webpack-dev-server": "^4.1.0",
     "@testing-library/cypress": "^10.0.3",
+    "@types/cypress": "^1.1.6",
+    "@types/jest": "^29.5.14",
     "@vitejs/plugin-react": "^4.4.1",
     "concurrently": "^8.2.2",
     "cypress": "^14.3.3",
@@ -39,6 +41,7 @@
   "dependencies": {
     "@cypress/react18": "^2.0.1",
     "@types/react": "^18.2.0",
-    "@types/react-dom": "^18.2.0"
+    "@types/react-dom": "^18.2.0",
+    "mongoose": "^8.14.3"
   }
 }
