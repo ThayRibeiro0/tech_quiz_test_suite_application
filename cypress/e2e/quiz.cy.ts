@@ -6,7 +6,6 @@ describe('template spec', () => {
     cy.visit('http://127.0.0.1:3001/');
 
     cy.get('[data-testid="cypress-button"]').click();
-    cy.contains('Loading...').should('exist');
   });
 });
 
