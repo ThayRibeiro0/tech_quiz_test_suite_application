@@ -1,0 +1,75 @@
+[
+  {
+    "question": "What does HTML stand for?",
+    "answers": [
+      { "text": "Hyper Text Markup Language", "isCorrect": true },
+      { "text": "Hot Mail", "isCorrect": false },
+      { "text": "How To Make Lasagna", "isCorrect": false },
+      { "text": "Hyperlinks and Text Markup Language", "isCorrect": false }
+    ]
+  },
+  {
+ 
+    "question": "What is the purpose of CSS?",
+    "answers": [
+      { "text": "Structure the web", "isCorrect": false },
+      { "text": "Style the web", "isCorrect": true },
+      { "text": "Store data", "isCorrect": false },
+      { "text": "Send emails", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which language is used for web apps?",
+    "answers": [
+      { "text": "PHP", "isCorrect": false },
+      { "text": "Python", "isCorrect": false },
+      { "text": "JavaScript", "isCorrect": false },
+      { "text": "All of the above", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "What is the capital of France?",
+    "answers": [
+      { "text": "Paris", "isCorrect": true },
+      { "text": "London", "isCorrect": false },
+      { "text": "Berlin", "isCorrect": false },
+      { "text": "Madrid", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "answers": [
+      { "text": "Earth", "isCorrect": false },
+      { "text": "Mars", "isCorrect": true },
+      { "text": "Jupiter", "isCorrect": false },
+      { "text": "Saturn", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What language is primarily used for web development?",
+    "answers": [
+      { "text": "Python", "isCorrect": false },
+      { "text": "JavaScript", "isCorrect": true },
+      { "text": "C++", "isCorrect": false },
+      { "text": "Java", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Who developed the theory of relativity?",
+    "answers": [
+      { "text": "Isaac Newton", "isCorrect": false },
+      { "text": "Albert Einstein", "isCorrect": true },
+      { "text": "Galileo", "isCorrect": false },
+      { "text": "Nikola Tesla", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which one is a JavaScript framework?",
+    "answers": [
+      { "text": "Laravel", "isCorrect": false },
+      { "text": "Django", "isCorrect": false },
+      { "text": "React", "isCorrect": true },
+      { "text": "Rails", "isCorrect": false }
+    ]
+  }
+]
